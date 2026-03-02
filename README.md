@@ -37,7 +37,3 @@ lib/
 └── widgets/
     ├── weather_card.dart
     └── search_bar_widget.dart
-```
-
-## Screenshots
-> Add screenshots here
